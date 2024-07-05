@@ -11,21 +11,33 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Tasks:
 
 1. Select Your Operating System (OS):
-   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   Choose an operating system that best suits your preferences and project requirements. 
+   
+   Downloaded and Installed Windows 10 x64. 
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
-   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+   Select and install a text editor or IDE suitable for your programming languages and workflow. 
+
+   Downloaded and Installed Visual Studio Code. 
+
 3. Set Up Version Control System:
-   Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+   Installed Git and configured it on my PC. 
+   Created a GitHub account for hosting my repositories. 
+   Initialized a Git repository for my projects and made my first commit. 
 
 4. Install Necessary Programming Languages and Runtimes:
-  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+
+  Installed Python, Flutter and Dart programming languages. 
+  
 
 5. Install Package Managers:
-   If applicable, install package managers like pip (Python).
+
+   Installed pip package manager.
 
 6. Configure a Database (MySQL):
-   Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+   Downloaded and installed MySQL database. 
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
@@ -38,7 +50,12 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
+
+https://github.com/alzipapa/GitSessionPLP.git
+
+
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
 #Submission:
